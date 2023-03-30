@@ -10,10 +10,10 @@ const USER_CONFIG = {
 USE_PASSAGE: 'push-deer',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx99dbe9338706f4fe',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '014206010eee154e1058246e34f5a7e8',
 
   PROVINCE: '苏州',
   CITY: '太仓市',
