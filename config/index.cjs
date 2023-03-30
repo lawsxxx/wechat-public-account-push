@@ -7,13 +7,13 @@
  */
 const USER_CONFIG = {
   // 请将以下代码按照图示粘贴到对应位置
-USE_PASSAGE: 'push-deer',
+USE_PASSAGE: 'wechat-test',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx99dbe9338706f4fe',
+  APP_ID: 'wxa848346d314df80a',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '014206010eee154e1058246e34f5a7e8',
+  APP_SECRET: '0d5552221a36200ba147d76fc3af4d63',
 
   PROVINCE: '苏州',
   CITY: '太仓市',
@@ -53,7 +53,7 @@ USE_PASSAGE: 'push-deer',
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'owadk6i_uwh_yEN0ny5-JbifA7_s',
+      id: 'PDU21378TPmnzptC5HeuRqZAtq0LqEPzWzRfqXnJ2',
     }
   ],
 
