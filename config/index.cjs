@@ -15,7 +15,7 @@ USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
 
-  PROVINCE: '江苏',
+  PROVINCE: '',
   CITY: '太仓',
 
   USERS: [
