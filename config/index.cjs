@@ -53,7 +53,7 @@ USE_PASSAGE: 'push-deer',
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'owadk6i_uwh_yEN0ny5-JbifA7_s',
     }
   ],
 
