@@ -10,10 +10,10 @@ const USER_CONFIG = {
 USE_PASSAGE: 'wechat-test',
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxa848346d314df80a',
+  APP_ID: 'wx99dbe9338706f4fe',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '0d5552221a36200ba147d76fc3af4d63',
+  APP_SECRET: '014206010eee154e1058246e34f5a7e8',
 
   PROVINCE: '苏州',
   CITY: '太仓市',
@@ -25,7 +25,7 @@ USE_PASSAGE: 'wechat-test',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'PDU21378TPmnzptC5HeuRqZAtq0LqEPzWzRfqXnJ2',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: '0001',
+      useTemplateId: 'vMzA6wV3U8T_bZEahJsYhSV1z-UgrgD4jXtVAJDCc9U',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '09-14',
       festivals: [
